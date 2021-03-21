@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
 @import url("fontawesome-all.min.css");
 
 
@@ -55,6 +56,10 @@ mark {
 	background-color: transparent;
 	color: inherit;
 }
+p
+{
+color:#172738 ;
+}
 
 .imgr
 
@@ -63,7 +68,11 @@ mark {
 	height: 200px;
 	width:300px;
 }
+span
+{
 
+	font-family: 'Ranchers', cursive;
+}
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
@@ -111,7 +120,7 @@ input, select, textarea {
 		line-height: 1.75em;
 	}
 
-	h1, p, h2
+	h1, h2, span, i
 	{
 
 	color:#172738;
