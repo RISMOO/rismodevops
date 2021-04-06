@@ -4,4 +4,4 @@
 
  
 
-[RISMO DEVOPS](https://rismo.fr/apps/rismodevops)
+[RISMO DEVOPS](https://rismo.fr/rismodevops)
